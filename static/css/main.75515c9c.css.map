@@ -1,0 +1,1 @@
+{"version":3,"sources":["global.css"],"names":[],"mappings":"AAAA,KACE,uBACA,eACA,eAAiB,CAGnB,iBACE,gBAAkB","file":"static/css/main.75515c9c.css","sourcesContent":["body {\n  font-family: sans-serif;\n  font-size: 16px;\n  line-height: 1.5;\n}\n\n.handsontable td {\n  padding: 3px 10px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/global.css"],"sourceRoot":""}
