@@ -166,7 +166,7 @@ class App extends Component {
           {
             this.state.data.length === 0 || this.state.loading
               ? <TablePlaceholder>Fetching Data..., waiting so long? press space again.</TablePlaceholder>
-              : <Table data={this.state.data} height="340" stretchH="all" />
+              : <Table data={this.state.data} readOnly={true} height="340" stretchH="all" />
           }
         </Wrapper>
       </Fragment>
